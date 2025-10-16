@@ -2,6 +2,6 @@
 
 ### Integrantes del Equipo
 
-*   **Nombre:** Jefferson Stiven Lizarzo Arias
+*   **Nombre:** Jefferson Stiven Lizarazo Arias
 *   **Cédula:** 1130266118
 *   **Programa:** INGENIERÍA DE SISTEMAS [504]
