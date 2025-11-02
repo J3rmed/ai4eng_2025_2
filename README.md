@@ -7,5 +7,4 @@
 *   **Programa:** INGENIERÍA DE SISTEMAS [504]
 
 ## Videos de Entrega
-* Entrega 2: 
-
+* Entrega 2: https://youtu.be/vVCXvPnPDys
