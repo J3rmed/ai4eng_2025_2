@@ -5,3 +5,7 @@
 *   **Nombre:** Jefferson Stiven Lizarazo Arias
 *   **Cédula:** 1130266118
 *   **Programa:** INGENIERÍA DE SISTEMAS [504]
+
+## Videos de Entrega
+* Entrega 2: 
+
