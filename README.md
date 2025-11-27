@@ -8,3 +8,4 @@
 
 ## Videos de Entrega
 * Entrega 2: https://youtu.be/vVCXvPnPDys
+* Entrega 2: https://youtu.be/pjMOWrgfKoQ
