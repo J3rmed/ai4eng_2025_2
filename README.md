@@ -6,6 +6,4 @@
 *   **Cédula:** 1130266118
 *   **Programa:** INGENIERÍA DE SISTEMAS [504]
 
-## Videos de Entrega
-* Entrega 2: https://youtu.be/vVCXvPnPDys
-* Entrega 2: https://youtu.be/pjMOWrgfKoQ
+
